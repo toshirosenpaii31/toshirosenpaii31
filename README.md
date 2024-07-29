@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toshirosenpaii</h1>
 <h3 align="center">Im interested in CRYPTO and NODES modules.</h3>
-<img align="right" alt="Coding" width="400" src="https://sticknodes.com/thumbs2/codebackgroundmovieclip.gif
 
 - 🌱 I’m currently learning **Crypto Nodes and Cryptocurrency Docs.**
 
